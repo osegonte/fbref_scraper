@@ -1,0 +1,17 @@
+README.md
+setup.py
+fbref_scraper/__init__.py
+fbref_scraper/cli.py
+fbref_scraper/http.py
+fbref_scraper/mock_data.py
+fbref_scraper/models.py
+fbref_scraper/parser.py
+fbref_scraper/scraper.py
+fbref_scraper.egg-info/PKG-INFO
+fbref_scraper.egg-info/SOURCES.txt
+fbref_scraper.egg-info/dependency_links.txt
+fbref_scraper.egg-info/entry_points.txt
+fbref_scraper.egg-info/requires.txt
+fbref_scraper.egg-info/top_level.txt
+tests/__init__.py
+tests/test_parser.py

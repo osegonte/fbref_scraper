@@ -1,0 +1,2 @@
+[console_scripts]
+fbref_scraper = fbref_scraper.cli:main
